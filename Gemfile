@@ -48,6 +48,6 @@ gem "thin"
 # Git. Remember to move these dependencies to your gemspec before releasing
 # your gem to rubygems.org.
 gem 'capybara', '~> 2.1'
-gem 'caxlsx', git: 'https://github.com/kokorolx/caxlsx.git'
+gem 'caxlsx', git: 'https://github.com/kokorolx/caxlsx'
 # To use debugger
 # gem 'pry-debugger'
